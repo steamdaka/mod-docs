@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: About
+title: About s2
 description: Use the about content block to display a lead text next to a featured illustration.
 type: docs
 tags: block
